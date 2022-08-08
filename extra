@@ -1,0 +1,82 @@
+https://code.visualstudio.com/ (install)
+https://nodejs.org/ (install)
+https://git-scm.com/downloads (install)
+https://github.com/ (create account)
+https://github.com/Aakashdeveloper (follow)
+JSON Viewer -- Add as chrome extension
+
+#VS Code extensions
+> vscode-icons
+> gitHistory
+> gitlens
+> tabNine
+> eslint
+> spellcheck
+
+Course Content
+
+
+
+NodeJS
+> Single Threaded async non-blocking I/O
+C++ Libu
+
+Process over V8 engine
+open source (anyone can contribute to development) 
+---> npmjs.com ===> (1,9,61,637) => registry where all packages are present.
+
+
+//////////////////JSON//////////////////////
+Javascript object notation
+[
+{
+    "name":"John",
+    "class":"nodejs",
+    "city":"Delhi"
+
+},
+{
+    "name":"Ankit",
+    "class":"React",
+    "college":"DU"
+}
+]
+
+
+/////////////////////////////////////////////
+                Package.json
+////////////////////////////////////////////
+> Entry point to the application
+> metadata (name, description, version)
+> scripts (start, test, run)
+> package / dependencies
+
+///////////////////////////////////////////
+> step to generate pacakge.json
+//////////////////////////////////////////
+
+** NodeJs must be installed in laptop
+> go inside the folder using cmd 
+> npm init
+> answer all questions
+> type "yes"
+
+///////////////////////////////////////////
+steps to install pacakge
+////////////////////////////////////////
+> go inside the folder
+> npm i bicrypt.js
+> npm i express
+
+
+node_module folder is heavy folder, when we pass this application, we don't pass node_module folder
+
+> npm i                        /////This will install all packages present in dependencies
+
+add two more files
+1. readme.md
+2. changelog.md
+
+
+
+
